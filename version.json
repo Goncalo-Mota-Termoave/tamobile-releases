@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "2.3.8",
-  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v2.3.8/TAMobile-v2.3.8.apk",
-  "changelog": "Teste nova versão",
+  "versionCode": 46,
+  "versionName": "2.3.9",
+  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v2.3.9/TAMobile-v2.3.9.apk",
+  "changelog": "Pequenos ajustes, melhorias de desempenho e correção ao transferir ficheiros pelo chat.",
   "forceUpdate": false
 }
