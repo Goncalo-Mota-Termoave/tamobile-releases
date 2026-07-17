@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "2.4.0",
-  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v2.4.0/TAMobile-v2.4.0.apk",
-  "changelog": "Melhorias na interface do Chat;\nNova funcionalidade de Audio no chat;\nNovo menu \"As minhas horas\";\nCheck-in com PIN do funcionário",
-  "forceUpdate": true
+  "versionCode": 48,
+  "versionName": "2.5.0",
+  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v2.5.0/TAMobile-v2.5.0.apk",
+  "changelog": "Menu 'Meus Registos' mostra registos de horas nas tarefas e também registos de assiduidade.\nReordenação da lista das tarefas da mais recente para mais antiga\nMarcar vários comunicados como lidos ao mesmo tempo\nNotificações ao escrever no chat de uma tarefa\nPrevenção: ver os meus turnos como também os restantes dos colaboradores\nVer tarefas no mapa caso a tarefa tenha cliente final com coordenadas\nAfixar mensagens no chat (max 3)",
+  "forceUpdate": false
 }
