@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "2.5.0",
-  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v2.5.0/TAMobile-v2.5.0.apk",
-  "changelog": "Menu 'Meus Registos' mostra registos de horas nas tarefas e também registos de assiduidade.\nReordenação da lista das tarefas da mais recente para mais antiga\nMarcar vários comunicados como lidos ao mesmo tempo\nNotificações ao escrever no chat de uma tarefa\nPrevenção: ver os meus turnos como também os restantes dos colaboradores\nVer tarefas no mapa caso a tarefa tenha cliente final com coordenadas\nAfixar mensagens no chat (max 3)",
+  "versionCode": 49,
+  "versionName": "2.6.0",
+  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v2.6.0/TAMobile-v2.6.0.apk",
+  "changelog": "Ver o gestor de conta e contactá-lo diretamente a partir do detalhe da tarefa\nOpção de ordenar tarefas por ordem ascendente ou descendente consoante o prazo\nChat: icone de telemovel do colaborador que permite contactá-lo diretamente\nChat: indicador de quando alguém está a escrever\nChat: Mensagem para si mesmo\nChat: galeria de imagens e pré-visualização de vídeos com miniaturas\nDespesas: novo ecrã de despesas e relatórios, com nome da despesa e submissão de vários relatórios de uma vez\nAusências: navegação e lista melhoradas\nPlaneamento: abre na vista semanal por defeito\nMapa com cores e legenda melhoradas\nAssiduidades: aviso para parar a tarefa em curso ao fazer check-out\nPossibilidade de conseguir clicar em imagens dos comunicados e outros campos html (como descrição de tarefa)\nCorreção bug no login\n",
   "forceUpdate": false
 }
