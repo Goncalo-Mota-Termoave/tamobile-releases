@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "3.0.2",
-  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v3.0.2/TAMobile-v3.0.2.apk",
-  "changelog": "Logística: na devolução, quando o projeto tem vários clientes finais, escolhe-se o cliente da morada onde está e aparece só o material entregue lá\nLogística: nas guias de devolução e de levantamento, escolha do cliente final quando o projeto tem vários\nLogística: botões \"Selecionar todo o disponível\" e \"Máx\" para preencher logo a quantidade máxima\nLogística: o pedido de levantamento passa a ter hora, além da data, e não aceita uma hora que já passou\nLogística: na preparação do levantamento, as quantidades podem ser ajustadas (de 0 até ao máximo disponível) e o pedido fica com as quantidades preparadas\nLogística: o detalhe do produto no levantamento mostra as requisições prioritárias (EMG), que não entram no levantamento\nLogística: o levantamento mostra só o material pedido, sem os componentes de fabrico\nGuias: as guias de transporte passam a indicar o projeto, o processo, a tarefa e o nº PAT\nGuias: guias para clientes ou moradas fora de Portugal já não pedem código AT\nCorreção: no Android 15 e mais recentes, o teclado tapava os campos de texto\n",
+  "versionCode": 53,
+  "versionName": "3.0.3",
+  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v3.0.3/TAMobile-v3.0.3.apk",
+  "changelog": "Logística: botão \"Notas\" na preparação e no levantamento, com as notas do pedido e das transferências (PICK/OUT); dá para escrever notas e anexar ficheiros\nLogística: ao pedir um levantamento, nota opcional para o armazém, que fica nas notas do pedido\nLogística: na preparação, quando se prepara menos do que o pedido, o que ficou por preparar pode passar para um levantamento diferido, que aparece em \"Preparar material\" com \"Diferido de LEV/…\"\nLogística: os técnicos de armazém podem preparar mais do que o reservado, até ao livre na sede; o que passa do reservado aparece como \"A reservar\"\nLogística: o menu do levantamento mostra sempre os três passos; os que não estão disponíveis ficam inativos, com o motivo (sem permissão ou sem pedidos)\n",
   "forceUpdate": false
 }
