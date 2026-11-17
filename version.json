@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "3.0.3",
-  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v3.0.3/TAMobile-v3.0.3.apk",
-  "changelog": "Logística: botão \"Notas\" na preparação e no levantamento, com as notas do pedido e das transferências (PICK/OUT); dá para escrever notas e anexar ficheiros\nLogística: ao pedir um levantamento, nota opcional para o armazém, que fica nas notas do pedido\nLogística: na preparação, quando se prepara menos do que o pedido, o que ficou por preparar pode passar para um levantamento diferido, que aparece em \"Preparar material\" com \"Diferido de LEV/…\"\nLogística: os técnicos de armazém podem preparar mais do que o reservado, até ao livre na sede; o que passa do reservado aparece como \"A reservar\"\nLogística: o menu do levantamento mostra sempre os três passos; os que não estão disponíveis ficam inativos, com o motivo (sem permissão ou sem pedidos)\n",
+  "versionCode": 54,
+  "versionName": "3.0.4",
+  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v3.0.4/TAMobile-v3.0.4.apk",
+  "changelog": "Logística: na preparação do levantamento, cada material pode ser marcado como preparado, com a contagem \"X de Y materiais preparados\" e a opção \"Mostrar só pendentes\"\nLogística: as quantidades e os materiais marcados na preparação ficam guardados no Odoo à medida que se preenchem; dá para sair e continuar mais tarde, no mesmo ou noutro telemóvel\nDespesas: campo opcional \"Tarefa\", para associar a despesa a uma tarefa do projeto escolhido (pesquisa por nome ou nº PAT); a tarefa aparece no detalhe da despesa\nTarefas: no detalhe da tarefa, opção \"Criar despesa\" no menu ⋮, que abre a despesa com o projeto e a tarefa já preenchidos\nTarefas: filtro por datas na lista de tarefas, de um dia a outro, pela data de início ou pela de fim\nTarefas: o agrupamento da lista (Projeto, Cliente, Prazo) passa a escolher-se num botão no topo, ao lado do filtro por datas\nCorreção: na lista de tarefas, prazos perto da meia-noite podiam aparecer no dia anterior\n",
   "forceUpdate": false
 }
