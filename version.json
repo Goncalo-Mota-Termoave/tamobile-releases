@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "3.0.4",
-  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v3.0.4/TAMobile-v3.0.4.apk",
-  "changelog": "Logística: na preparação do levantamento, cada material pode ser marcado como preparado, com a contagem \"X de Y materiais preparados\" e a opção \"Mostrar só pendentes\"\nLogística: as quantidades e os materiais marcados na preparação ficam guardados no Odoo à medida que se preenchem; dá para sair e continuar mais tarde, no mesmo ou noutro telemóvel\nDespesas: campo opcional \"Tarefa\", para associar a despesa a uma tarefa do projeto escolhido (pesquisa por nome ou nº PAT); a tarefa aparece no detalhe da despesa\nTarefas: no detalhe da tarefa, opção \"Criar despesa\" no menu ⋮, que abre a despesa com o projeto e a tarefa já preenchidos\nTarefas: filtro por datas na lista de tarefas, de um dia a outro, pela data de início ou pela de fim\nTarefas: o agrupamento da lista (Projeto, Cliente, Prazo) passa a escolher-se num botão no topo, ao lado do filtro por datas\nCorreção: na lista de tarefas, prazos perto da meia-noite podiam aparecer no dia anterior\n",
+  "versionCode": 55,
+  "versionName": "3.0.5",
+  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/tamobile-releases/releases/download/v3.0.5/TAMobile-v3.0.5.apk",
+  "changelog": "Logística: nos ecrãs de escolha de material (levantamento, saída de material e inventário da viatura) cada produto passa a ter botões - e + para ajustar a quantidade, além do campo e do botão Máx\nLogística: nova barra fixa no fundo destes ecrãs com o botão para rever e o número de produtos escolhidos; quando algo está mal (ex.: quantidades a vermelho), diz o motivo por cima do botão\nLogística: com o teclado aberto, a barra esconde-se para a lista ter mais espaço, e em telemóveis pequenos o campo já não perde o foco ao escrever\nLogística: o aviso de rascunho guardado ficou mais discreto e já não faz a lista saltar quando se escreve a primeira quantidade\nLogística: lotes com a validade passada aparecem assinalados na preparação e na recolha do material, e há um aviso antes de confirmar (o material sai na mesma)\nLogística: ao pedir um levantamento, se faltar o dia ou a hora, a mensagem indica o que escolher\n",
   "forceUpdate": false
 }
